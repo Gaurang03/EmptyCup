@@ -7,7 +7,7 @@
     }
   ],
 
-  "rewrites": [
+  "routes": [
     {
       "source": "/(.*)",
       "destination": "app.py"
